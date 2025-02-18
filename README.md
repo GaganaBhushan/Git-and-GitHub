@@ -20,9 +20,9 @@ GitHub:
 
     GitHub is proper website in which developers will upload their complete code to it,they can do changes in website only or if developwers do changes in their system that can be reflected in github also.
 
-    when we apply for job, we will give github like in resumen to give full information about our pojects(uploaded in form of folders/repository), HR can directly go and check my work.
+    When we apply for job, we will give github like in resumen to give full information about our pojects(uploaded in form of folders/repository), HR can directly go and check my work.
 
-    we can also check others GitHub reporsitories.
+    We can also check others GitHub reporsitories.
 
     GitHub is a website that:
 ✅ Stores your code in repositories (repos).
